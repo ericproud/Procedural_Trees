@@ -4,3 +4,8 @@ This is a small demo showing off the [space colonization algorithm](https://www.
 
 # Tech Stack
 - Python, Pygame
+
+# How to Run
+
+1. Clone the repository into your favourite IDE
+2. Run main.py
